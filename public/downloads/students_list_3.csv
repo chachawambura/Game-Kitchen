@@ -1,0 +1,6 @@
+First Name, Last Name, Email, Phone, Idno/PptNo, D.O.B, Gender, County, University, Campus, Course,	Year, Admin_No, Active, Approved
+admin 1,admin,studend7@uni.com,,,--,,,KCAUniversity,,,0,,Yes,Not Yet
+Douglas,Jakaki,djakaki@uni.com,0755555456,12345678,--,Male,,KCAUniversity,,,0,,Yes,Not Yet
+Faustin,Alusa,faustin@kca.ac.ke,0720123456,22058557,--,Female,,KCAUniversity,,,0,,Yes,Yes
+Stephen,M,na5sh@kenyaweb.com,78888888,12444478,08/01/2000,Male,Kericho,KCAUniversity,kirigi,Engineering,5,211111,No,Not Yet
+Stud,Student 5,nathan@kenyaweb.com,072333555,1234567,01/01/1980,Male,Nairobi,KCAUniversity,urego,Arts,5,778888,Yes,Not Yet
